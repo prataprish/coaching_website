@@ -1,0 +1,18 @@
+.icon-maths{background-image: url('../images/ico/maths.jpg'); height: 20px; background-size: 40px;}
+.icon-english{background-image: url('../images/ico/english.jpg'); height: 20px; background-size: 40px;}
+.icon-science{background-image: url('../images/ico/science.jpg'); height: 20px; background-size: 40px;}
+.icon-ks{background-image: url('../images/ico/ks.jpg'); height: 20px; background-size: 40px;}
+.icon-gcse{background-image: url('../images/ico/gcse.png'); height: 20px; background-size: 40px;}
+.icon-pre{background-image: url('../images/ico/pre.jpg'); height: 20px; background-size: 40px;}
+#slidy { 
+  width: auto; overflow: hidden; 
+}
+.image
+{
+	width: 40%;
+}
+.x{margin:50px 10px;}
+li:hover{color: grey;}
+li:active{color: grey;}
+.black{color: #000;}
+a>li{color:#000;}
